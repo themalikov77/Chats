@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chats</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send_code">Отправить код</string>
+    <string name="input_number">Введите номер:</string>
+    <string name="code">Введите код:</string>
+    <string name="accept">Подвердить</string>
+    <string name="user_name">User Name</string>
+    <string name="user">User Name</string>
+    <string name="number">Number</string>
+</resources>
